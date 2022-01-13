@@ -1,0 +1,6 @@
+# Created at 2019-06-11T13:18:12.970
+Error: Could not find or load main class v2\ChatIOShared\target\classes;C:\Users\Hugo\.m2\repository\javax\websocket\javax.websocket-api\1.1\javax.websocket-api-1.1.jar;C:\Users\Hugo\.m2\repository\com\google\code\gson\gson\2.8.5\gson-2.8.5.jar
+
+# Created at 2019-06-11T13:18:12.976
+Caused by: java.lang.ClassNotFoundException: v2\ChatIOShared\target\classes;C:\Users\Hugo\/m2\repository\javax\websocket\javax/websocket-api\1/1\javax/websocket-api-1/1/jar;C:\Users\Hugo\/m2\repository\com\google\code\gson\gson\2/8/5\gson-2/8/5/jar
+

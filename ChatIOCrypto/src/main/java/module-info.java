@@ -1,0 +1,3 @@
+module ChatIOCrypto {
+    exports security;
+}

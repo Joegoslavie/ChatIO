@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.RadioButton?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.control.TitledPane?>
+<?import javafx.scene.layout.AnchorPane?>
+
+
+<AnchorPane prefHeight="347.0" prefWidth="472.0" xmlns="http://javafx.com/javafx/8.0.172-ea" xmlns:fx="http://javafx.com/fxml/1" fx:controller="Groupsettingsfrm">
+   <children>
+      <TitledPane animated="false" collapsible="false" layoutX="88.0" layoutY="19.0" prefHeight="115.0" prefWidth="231.0" text="General settings">
+        <content>
+          <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="84.0" prefWidth="295.0">
+               <children>
+                  <TextField layoutX="14.0" layoutY="25.0" prefHeight="25.0" prefWidth="200.0" />
+                  <RadioButton layoutX="14.0" layoutY="61.0" mnemonicParsing="false" text="Private" />
+                  <Label layoutX="14.0" layoutY="6.0" text="Group name" />
+               </children>
+            </AnchorPane>
+        </content>
+      </TitledPane>
+      <TitledPane animated="false" collapsible="false" layoutX="88.0" layoutY="155.0" prefHeight="147.0" prefWidth="297.0" text="Member management">
+        <content>
+          <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="180.0" prefWidth="200.0" />
+        </content>
+      </TitledPane>
+   </children>
+</AnchorPane>
